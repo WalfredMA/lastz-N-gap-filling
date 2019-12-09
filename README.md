@@ -5,5 +5,6 @@
 
 N-gap filling tools using blastn
 
-it uses 500 sizes as anchor to locate Ngaps on reference assembly.
+1.it detect Ngaps or low quality regions in query sequences.
+2.it uses 500 sizes as anchor to locate Ngaps on reference assembly.
 
