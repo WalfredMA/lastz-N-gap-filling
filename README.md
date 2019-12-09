@@ -7,4 +7,5 @@ N-gap filling tools using blastn
 
 1.it detect Ngaps or low quality regions in query sequences.
 2.it uses 500 sizes as anchor to locate Ngaps on reference assembly.
+3.it replace Ngaps or low quality regions with it anchors with sequences from reference assembly.
 
