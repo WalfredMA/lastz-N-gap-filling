@@ -14,4 +14,4 @@ N-gap filling tools using blastn
 
 ---------usage---------
 
-Python2.7 -f 
+Python2.7 -i querypath -r refpath -o outputpath
